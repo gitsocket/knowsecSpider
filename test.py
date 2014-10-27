@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 '''
     Version: 0.3
-    Author:  康雷 
+    Author:  gitsocket 
     Mail:    kingthunder2004@aliyun.com 
     Phone:   18756091592
 '''

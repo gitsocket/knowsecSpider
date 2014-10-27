@@ -1,4 +1,4 @@
-*Author:康雷* *mail:<kingthunder2004@aliyun.com>*
+*Author:gitsocket* *mail:<kingthunder2004@aliyun.com>*
 
 ##基本说明
 1. 采用PEP8风格；

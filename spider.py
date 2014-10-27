@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 '''
     Version: 0.3
-    Author:  康雷 
+    Author:  gitsocket 
     Mail:    kingthunder2004@aliyun.com 
 '''
 import urllib.request
@@ -268,7 +268,7 @@ def mainHandler(threadNum,link,deep,key,test):
 
 #用法说明
 def _usage():
-    print('''spider v0.3 康雷 mail:kingthunder2004@aliyun.com
+    print('''spider v0.3 gitsocket mail:kingthunder2004@aliyun.com
 用法：python3 spider.py -u [URL] -d [Deep] -f [Log File]\
  -l [Level] --thread [Thread Number] --dbfile \
 [Database File Name] --key [Key Word]
