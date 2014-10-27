@@ -32,5 +32,5 @@
 * 内存占用：默认开10个线程，每个线程平均占用8%，共占用80%左右，去掉chrome等其他占用内存的程序，spider.py相当于占满了内存。
 
 ##运行情况截图：
-![]('img/start.jpg')
-![]('img/progress.jpg')
+![](img/start.jpg)
+![](img/progress.jpg)
