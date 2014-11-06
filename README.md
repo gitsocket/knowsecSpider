@@ -1,3 +1,5 @@
+#本代码已停止更新，持续更新代码请关注 <https://github.com/littlethunder/knowsecSpider2>
+
 *Author:gitsocket* *mail:<kingthunder2004@aliyun.com>*
 
 ##基本要求
