@@ -1,7 +1,7 @@
 #本代码已停止更新，持续更新代码请关注:
 ##<https://github.com/littlethunder/knowsecSpider2>
 
-*Author:gitsocket* *mail:<kingthunder2004@aliyun.com>*
+*Author: gitsocket* *mail: <kingthunder2004@aliyun.com>*
 
 ##基本要求
 使用python编写一个网站爬虫程序，支持参数如下：
